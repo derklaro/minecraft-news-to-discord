@@ -1,0 +1,43 @@
+name: Post Minecraft News
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  post-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: 3.14
+          pip-install: requirements.txt
+
+      - name: Run Minecraft news script
+        env:
+          MINECRAFT_FEED_URL: ${{ secrets.MC_FEED_URL }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          python script.py
+
+      - name: Commit updated last_posted_article_id
+        run: |
+          if [ -f last_posted_article_id.txt ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+
+            git add last_posted_article_id.txt
+            git commit -m "Update last posted article ID" || echo "No changes to commit"
+            git push
+          else
+            echo "No last_posted_article_id.txt file found."
+          fi
