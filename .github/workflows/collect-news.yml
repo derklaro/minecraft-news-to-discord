@@ -7,6 +7,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: collect-news
+  cancel-in-progress: false
+
 jobs:
   post-news:
     runs-on: ubuntu-latest
