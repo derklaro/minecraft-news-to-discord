@@ -7,7 +7,7 @@ def to_minecraft_url(path):
 
 
 def fetch_articles(feed_url):
-    response = requests.get(feed_url)
+    response = requests.get(feed_url, timeout=30)
     response.raise_for_status()
     response_json = response.json()
     return response_json["article_grid"]
@@ -43,7 +43,7 @@ def post_message_to_discord(webhook_url, content):
         "username": "Minecraft News",
         "allowed_mentions": {"parse": []},
     }
-    response = requests.post(webhook_url, params={"wait": "true"}, json=payload)
+    response = requests.post(webhook_url, params={"wait": "true"}, json=payload, timeout=30)
     response.raise_for_status()
 
 
