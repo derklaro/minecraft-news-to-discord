@@ -1,13 +1,17 @@
 import os
 import requests
 
+BROWSER_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+}
+
 
 def to_minecraft_url(path):
     return f"https://www.minecraft.net{path}"
 
 
 def fetch_articles(feed_url):
-    response = requests.get(feed_url, timeout=30)
+    response = requests.get(feed_url, timeout=30, headers=BROWSER_HEADERS)
     response.raise_for_status()
     response_json = response.json()
     return response_json["article_grid"]
