@@ -2,6 +2,7 @@ name: Post Minecraft News
 on:
   schedule:
     - cron: "*/15 * * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
