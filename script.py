@@ -60,9 +60,11 @@ def main():
     feed_url = os.environ.get("MINECRAFT_FEED_URL")
     webhook_url = os.environ.get("DISCORD_WEBHOOK_URL")
 
+    print("Getting last posted article id...")
     last_article_file_name = "last_posted_article_id.txt"
     last_posted_article_id = get_last_posted_article_id(last_article_file_name)
 
+    print("Fetching news articles...")
     all_articles = convert_feed_to_articles(fetch_articles(feed_url))
     if last_posted_article_id is not None:
         index = next((i for i, item in enumerate(all_articles) if item["id"] == last_posted_article_id), None)
@@ -70,12 +72,15 @@ def main():
             all_articles = all_articles[:index]
 
     if not all_articles:
+        print("No new news articles found")
         return
 
+    print("Posting new news articles to discord...")
     for article in reversed(all_articles):
         content = format_article_message_content(article)
         post_message_to_discord(webhook_url, content)
 
+    print("Updating last posted article id...")
     last_article_id = all_articles[0]["id"]
     with open(last_article_file_name, mode="w", encoding="utf-8") as file:
         file.write(last_article_id)
