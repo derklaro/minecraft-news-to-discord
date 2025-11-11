@@ -14,7 +14,7 @@ def to_minecraft_url(path):
 
 def create_http_session():
     retry = Retry(total=10, backoff_factor=2, backoff_max=10, status_forcelist=[429, 500, 502, 503, 504],
-                  allowed_methods=["GET", "POST"], respect_retry_after_header=True)
+                  allowed_methods=["GET", "POST"], respect_retry_after_header=False)
     adapter = HTTPAdapter(max_retries=retry)
     session = requests.Session()
     session.mount("https://", adapter)
