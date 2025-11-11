@@ -1,5 +1,7 @@
 import os
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3 import Retry
 
 BROWSER_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
@@ -10,8 +12,17 @@ def to_minecraft_url(path):
     return f"https://www.minecraft.net{path}"
 
 
-def fetch_articles(feed_url):
-    response = requests.get(feed_url, timeout=30, headers=BROWSER_HEADERS)
+def create_http_session():
+    retry = Retry(total=10, backoff_factor=2, status_forcelist=[429, 500, 502, 503, 504],
+                  allowed_methods=["GET", "POST"], respect_retry_after_header=True)
+    adapter = HTTPAdapter(max_retries=retry)
+    session = requests.Session()
+    session.mount("https://", adapter)
+    return session
+
+
+def fetch_articles(http_session, feed_url):
+    response = http_session.get(feed_url, timeout=30, headers=BROWSER_HEADERS)
     response.raise_for_status()
     response_json = response.json()
     return response_json["article_grid"]
@@ -41,13 +52,13 @@ def convert_feed_to_articles(articles_from_feed):
     return result
 
 
-def post_message_to_discord(webhook_url, content):
+def post_message_to_discord(http_session, webhook_url, content):
     payload = {
         "content": content,
         "username": "Minecraft News",
         "allowed_mentions": {"parse": []},
     }
-    response = requests.post(webhook_url, params={"wait": "true"}, json=payload, timeout=30)
+    response = http_session.post(webhook_url, params={"wait": "true"}, json=payload, timeout=30)
     response.raise_for_status()
 
 
@@ -64,12 +75,15 @@ def main():
     feed_url = os.environ.get("MINECRAFT_FEED_URL")
     webhook_url = os.environ.get("DISCORD_WEBHOOK_URL")
 
+    print("Opening http session...")
+    http_session = create_http_session()
+
     print("Getting last posted article id...")
     last_article_file_name = "last_posted_article_id.txt"
     last_posted_article_id = get_last_posted_article_id(last_article_file_name)
 
     print("Fetching news articles...")
-    all_articles = convert_feed_to_articles(fetch_articles(feed_url))
+    all_articles = convert_feed_to_articles(fetch_articles(http_session, feed_url))
     if last_posted_article_id is not None:
         index = next((i for i, item in enumerate(all_articles) if item["id"] == last_posted_article_id), None)
         if index is not None:
@@ -82,7 +96,7 @@ def main():
     print("Posting new news articles to discord...")
     for article in reversed(all_articles):
         content = format_article_message_content(article)
-        post_message_to_discord(webhook_url, content)
+        post_message_to_discord(http_session, webhook_url, content)
 
     print("Updating last posted article id...")
     last_article_id = all_articles[0]["id"]
