@@ -2,14 +2,11 @@ import os
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3 import Retry
+from datetime import datetime, timezone
 
 BROWSER_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
 }
-
-
-def to_minecraft_url(path):
-    return f"https://www.minecraft.net{path}"
 
 
 def create_http_session():
@@ -25,28 +22,32 @@ def fetch_articles(http_session, feed_url):
     response = http_session.get(feed_url, timeout=30, headers=BROWSER_HEADERS)
     response.raise_for_status()
     response_json = response.json()
-    return response_json["article_grid"]
+    return response_json["result"]["results"]
 
 
 def format_article_message_content(article):
-    return f"## {article['category']}: {article['title']}\n-# {article['sub_header']}\n\n<{article['url']}>"
+    return f"""## {article['category']}: {article['title']}
+    -# {article['description']}
+    -# Author: {article['author']}, Posted: {article['posted_at']}
+    <{article['url']}>
+    """
 
 
 def convert_feed_to_articles(articles_from_feed):
     result = []
     for article in articles_from_feed:
+        article_url = article["url"]
+        article_id = article_url.rsplit("/", 1)[-1]
+        article_post_datetime = datetime.fromtimestamp(article["time"], tz=timezone.utc)
         res_article = {
-            "id": article["article_url"],
-            "category": article["primary_category"],
-            "url": to_minecraft_url(article["article_url"]),
-            "title": article["default_tile"]["title"],
-            "sub_header": article["default_tile"]["sub_header"],
+            "id": article_id,
+            "category": article["type"],
+            "url": article_url,
+            "title": article["title"],
+            "description": article["description"],
+            "author": article["author"],
+            "posted_at": article_post_datetime.strftime("%d.%m.%Y %H:%M:%S UTC")
         }
-
-        image_data = article["default_tile"]["image"]
-        if image_data and image_data.get("content_type") == "image":
-            res_article["image"] = to_minecraft_url(image_data["imageURL"])
-
         result.append(res_article)
 
     return result
