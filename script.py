@@ -31,6 +31,7 @@ def format_article_message_content(article):
     ## {article['category']}: {article['title']}
     -# {article['description']}
     -# Author: {article['author']}, Posted: {article['posted_at']}
+
     <{article['url']}>
     """).strip("\n")
 
