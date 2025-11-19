@@ -3,6 +3,7 @@ import requests
 from requests.adapters import HTTPAdapter
 from urllib3 import Retry
 from datetime import datetime, timezone
+from textwrap import dedent
 
 BROWSER_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
@@ -26,11 +27,12 @@ def fetch_articles(http_session, feed_url):
 
 
 def format_article_message_content(article):
-    return f"""## {article['category']}: {article['title']}
+    return dedent(f"""\
+    ## {article['category']}: {article['title']}
     -# {article['description']}
     -# Author: {article['author']}, Posted: {article['posted_at']}
     <{article['url']}>
-    """
+    """).strip("\n")
 
 
 def convert_feed_to_articles(articles_from_feed):
