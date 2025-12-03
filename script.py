@@ -62,13 +62,14 @@ def post_message_to_discord(http_session, webhook_url, content):
     response.raise_for_status()
 
 
-def get_last_posted_article_id(file_name):
+def get_posted_article_ids(file_name):
     if os.path.exists(file_name):
         with open(file_name, mode="r", encoding="utf-8") as file:
-            content = file.read().strip()
-            return content or None
+            lines = file.readlines()
+            non_empty_lines = [line.strip() for line in lines if line.strip()]
+            return non_empty_lines
     else:
-        return None
+        return []
 
 
 def main():
@@ -80,28 +81,25 @@ def main():
 
     print("Getting last posted article id...")
     last_article_file_name = "last_posted_article_id.txt"
-    last_posted_article_id = get_last_posted_article_id(last_article_file_name)
+    posted_article_ids = get_posted_article_ids(last_article_file_name)
 
     print("Fetching news articles...")
     all_articles = convert_feed_to_articles(fetch_articles(http_session, feed_url))
-    if last_posted_article_id is not None:
-        index = next((i for i, item in enumerate(all_articles) if item["id"] == last_posted_article_id), None)
-        if index is not None:
-            all_articles = all_articles[:index]
-
-    if not all_articles:
+    relevant_articles = [article for article in all_articles if article["id"] not in posted_article_ids]
+    if not relevant_articles:
         print("No new news articles found")
         return
 
     print("Posting new news articles to discord...")
-    for article in reversed(all_articles):
+    for article in reversed(relevant_articles):
         content = format_article_message_content(article)
         post_message_to_discord(http_session, webhook_url, content)
 
     print("Updating last posted article id...")
-    last_article_id = all_articles[0]["id"]
+    all_article_ids = [article["id"] for article in all_articles]
+    relevant_article_ids = all_article_ids[:100]
     with open(last_article_file_name, mode="w", encoding="utf-8") as file:
-        file.write(last_article_id)
+        file.write("\n".join(relevant_article_ids))
 
 
 if __name__ == "__main__":
