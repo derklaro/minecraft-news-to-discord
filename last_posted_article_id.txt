@@ -1,3 +1,4 @@
+/en-us/article/minecraft-1-21-11-pre-release-5
 /en-us/article/marketplace-content-december-2025
 /en-us/article/minecraft-new-version-numbering-system
 /en-us/article/let-s-play-huggy-friends
@@ -7,4 +8,3 @@
 /en-us/article/new-on-java-realms--buildfellas
 /en-us/article/mounts-of-mayhem-midnight-arena
 /en-us/article/mounts-of-mayhem-official-release-date
-/en-us/article/block-friday-2025
