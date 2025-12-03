@@ -1,3 +1,4 @@
+/en-us/article/mounts-of-mayhem-finale-arena
 /en-us/article/minecraft-1-21-11-pre-release-5
 /en-us/article/marketplace-content-december-2025
 /en-us/article/minecraft-new-version-numbering-system
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-mash-up-nice-to-wheat-you
 /en-us/article/new-on-java-realms--buildfellas
 /en-us/article/mounts-of-mayhem-midnight-arena
-/en-us/article/mounts-of-mayhem-official-release-date
