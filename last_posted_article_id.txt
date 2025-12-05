@@ -1,3 +1,4 @@
+/en-us/article/minecraft-1-21-11-release-candidate-2
 /en-us/article/minecraft-holiday-gift-guide-2025
 /en-us/article/minecraft-1-21-11-release-candidate-1
 /en-us/article/mounts-of-mayhem-finale-arena
@@ -7,4 +8,3 @@
 /en-us/article/let-s-play-huggy-friends
 /en-us/article/minecraft-1-21-11-pre-release-4
 /en-us/article/polished-granite
-/en-us/article/minecraft-mash-up-nice-to-wheat-you
