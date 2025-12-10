@@ -1,3 +1,4 @@
+/en-us/article/more-mayhem-incoming
 /en-us/article/play-mounts-of-mayhem-today
 /en-us/article/minecraft-java-edition-1-21-11
 /en-us/article/minecraft-1-21-11-release-candidate-3
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-1-21-11-release-candidate-1
 /en-us/article/mounts-of-mayhem-finale-arena
 /en-us/article/minecraft-1-21-11-pre-release-5
-/en-us/article/marketplace-content-december-2025
