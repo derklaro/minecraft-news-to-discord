@@ -1,5 +1,6 @@
-/en-us/article/unleash-mayhem-in-minecraft-realms
+/en-us/article/mounts-of-mayhem-challenges
 /en-us/article/shulker
+/en-us/article/unleash-mayhem-in-minecraft-realms
 /en-us/article/more-mayhem-incoming
 /en-us/article/play-mounts-of-mayhem-today
 /en-us/article/minecraft-java-edition-1-21-11
@@ -7,4 +8,3 @@
 /en-us/article/mounts-of-mayhem--the-conclusioning
 /en-us/article/minecraft-1-21-11-release-candidate-2
 /en-us/article/minecraft-holiday-gift-guide-2025
-/en-us/article/minecraft-1-21-11-release-candidate-1
