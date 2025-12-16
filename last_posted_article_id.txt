@@ -1,3 +1,4 @@
+/en-us/article/mob-maze
 /en-us/article/minecraft-26-1-snapshot-1
 /en-us/article/mounts-of-mayhem-challenges
 /en-us/article/shulker
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-java-edition-1-21-11
 /en-us/article/minecraft-1-21-130-bedrock-changelog
 /en-us/article/minecraft-1-21-11-release-candidate-3
-/en-us/article/mounts-of-mayhem--the-conclusioning
