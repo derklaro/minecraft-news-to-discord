@@ -1,5 +1,6 @@
-/en-us/article/mob-maze
+/en-us/article/new-years-sale-2025
 /en-us/article/minecraft-26-1-snapshot-1
+/en-us/article/mob-maze
 /en-us/article/mounts-of-mayhem-challenges
 /en-us/article/shulker
 /en-us/article/unleash-mayhem-in-minecraft-realms
@@ -7,4 +8,3 @@
 /en-us/article/play-mounts-of-mayhem-today
 /en-us/article/minecraft-java-edition-1-21-11
 /en-us/article/minecraft-1-21-130-bedrock-changelog
-/en-us/article/minecraft-1-21-11-release-candidate-3
