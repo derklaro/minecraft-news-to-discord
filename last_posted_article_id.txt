@@ -1,3 +1,4 @@
+/en-us/article/spongebob-squarepants-biomes
 /en-us/article/new-years-sale-2025
 /en-us/article/minecraft-26-1-snapshot-1
 /en-us/article/mob-maze
@@ -7,4 +8,3 @@
 /en-us/article/more-mayhem-incoming
 /en-us/article/play-mounts-of-mayhem-today
 /en-us/article/minecraft-java-edition-1-21-11
-/en-us/article/minecraft-1-21-130-bedrock-changelog
