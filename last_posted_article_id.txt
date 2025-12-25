@@ -1,3 +1,4 @@
+/en-us/article/charcoal
 /en-us/article/taiga-night-lights
 /en-us/article/new-on-java-realms-december-20250
 /en-us/article/spongebob-squarepants-biomes
@@ -7,4 +8,3 @@
 /en-us/article/mounts-of-mayhem-challenges
 /en-us/article/shulker
 /en-us/article/unleash-mayhem-in-minecraft-realms
-/en-us/article/more-mayhem-incoming
