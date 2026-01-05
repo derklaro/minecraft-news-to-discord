@@ -1,3 +1,4 @@
+/en-us/article/lets-play-everest-ascension
 /en-us/article/shaping-2025-in-minecraft
 /en-us/article/charcoal
 /en-us/article/taiga-night-lights
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-26-1-snapshot-1
 /en-us/article/mob-maze
 /en-us/article/mounts-of-mayhem-challenges
-/en-us/article/shulker
