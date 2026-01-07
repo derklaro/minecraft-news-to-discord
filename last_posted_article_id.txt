@@ -1,5 +1,6 @@
 /en-us/article/kick-off-the-year-with-new-rewards
 /en-us/article/minecraft-26-1-snapshot-2
+/en-us/article/minecraft-preview-26-0-27
 /en-us/article/first-features-minecraft-cutest-drop-yet
 /en-us/article/marketplace-content-january-2026
 /en-us/article/lets-play-everest-ascension
@@ -7,4 +8,3 @@
 /en-us/article/charcoal
 /en-us/article/taiga-night-lights
 /en-us/article/new-on-java-realms-december-20250
-/en-us/article/spongebob-squarepants-biomes
