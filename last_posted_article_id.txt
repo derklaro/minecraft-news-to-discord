@@ -1,3 +1,4 @@
+/en-us/article/mounts-of-mayhem-dungeon-descent
 /en-us/article/kick-off-the-year-with-new-rewards
 /en-us/article/minecraft-26-1-snapshot-2
 /en-us/article/minecraft-preview-26-0-27
@@ -7,4 +8,3 @@
 /en-us/article/shaping-2025-in-minecraft
 /en-us/article/charcoal
 /en-us/article/taiga-night-lights
-/en-us/article/new-on-java-realms-december-20250
