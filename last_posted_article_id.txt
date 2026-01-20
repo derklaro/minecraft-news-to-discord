@@ -1,4 +1,6 @@
+/en-us/article/minecraft-26-1-snapshot-4
 /en-us/article/highblock-halls
+/en-us/article/test-baby-mounts-with-new-looks
 /en-us/article/minecraft-26-1-snapshot-3
 /en-us/article/mounts-of-mayhem-dungeon-descent
 /en-us/article/kick-off-the-year-with-new-rewards
@@ -6,5 +8,3 @@
 /en-us/article/minecraft-preview-26-0-27
 /en-us/article/first-features-minecraft-cutest-drop-yet
 /en-us/article/marketplace-content-january-2026
-/en-us/article/lets-play-everest-ascension
-/en-us/article/shaping-2025-in-minecraft
