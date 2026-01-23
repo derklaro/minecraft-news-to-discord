@@ -1,3 +1,4 @@
+/en-us/article/golden-apple
 /en-us/article/minecraft-26-1-snapshot-4
 /en-us/article/highblock-halls
 /en-us/article/test-baby-mounts-with-new-looks
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-26-1-snapshot-2
 /en-us/article/minecraft-preview-26-0-27
 /en-us/article/first-features-minecraft-cutest-drop-yet
-/en-us/article/marketplace-content-january-2026
