@@ -1,3 +1,4 @@
+/en-us/article/new-on-java-realms--nadja-takeover
 /en-us/article/abyssal-monument
 /en-us/article/minecraft-26-1-snapshot-5
 /en-us/article/the-cuteness-continues-forever
@@ -7,4 +8,3 @@
 /en-us/article/test-baby-mounts-with-new-looks
 /en-us/article/minecraft-26-1-snapshot-3
 /en-us/article/mounts-of-mayhem-dungeon-descent
-/en-us/article/kick-off-the-year-with-new-rewards
