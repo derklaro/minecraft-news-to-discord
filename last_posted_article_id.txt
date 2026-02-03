@@ -1,3 +1,4 @@
+/en-us/article/minecraft-preview-26-10-21
 /en-us/article/minecraft-26-1-snapshot-6
 /en-us/article/let-s-play-the-one-who-watches
 /en-us/article/new-on-java-realms--nadja-takeover
@@ -7,4 +8,3 @@
 /en-us/article/golden-apple
 /en-us/article/minecraft-26-1-snapshot-4
 /en-us/article/highblock-halls
-/en-us/article/test-baby-mounts-with-new-looks
