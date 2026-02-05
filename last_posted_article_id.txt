@@ -1,3 +1,4 @@
+/en-us/article/blueys-house
 /en-us/article/marketplace-content-february-2026
 /en-us/article/the-minecraft-safety-council
 /en-us/article/minecraft-preview-26-10-21
@@ -7,4 +8,3 @@
 /en-us/article/abyssal-monument
 /en-us/article/minecraft-26-1-snapshot-5
 /en-us/article/the-cuteness-continues-forever
-/en-us/article/golden-apple
