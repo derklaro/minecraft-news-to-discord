@@ -1,3 +1,5 @@
+/en-us/article/cybersafe-bad-connection
+/en-us/article/minecraft-26-0-bedrock-changelog
 /en-us/article/fishing-rod
 /en-us/article/blueys-house
 /en-us/article/marketplace-content-february-2026
@@ -6,5 +8,3 @@
 /en-us/article/minecraft-26-1-snapshot-6
 /en-us/article/let-s-play-the-one-who-watches
 /en-us/article/new-on-java-realms--nadja-takeover
-/en-us/article/abyssal-monument
-/en-us/article/minecraft-26-1-snapshot-5
