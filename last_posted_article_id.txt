@@ -1,3 +1,6 @@
+/en-us/article/copper-golem
+/en-us/article/minecraft-26-1-snapshot-10
+/en-us/article/-corrupted-beacon
 /en-us/article/minecraft-26-1-snapshot-9
 /en-us/article/lunar-new-year-2026
 /en-us/article/final-baby-mobs
@@ -5,6 +8,3 @@
 /en-us/article/phantom
 /en-us/article/lapis-lazuli-ore
 /en-us/article/cybersafe-bad-connection
-/en-us/article/hostile-baby-mobs
-/en-us/article/minecraft-26-1-snapshot-7
-/en-us/article/minecraft-26-0-bedrock-changelog
