@@ -1,3 +1,5 @@
+/en-us/article/minecraft-26-1-pre-release-3
+/en-us/article/minecraft-26-1-pre-release-2
 /en-us/article/minecraft-26-1-pre-release-1
 /en-us/article/java-realms-mapmaker-awards
 /en-us/article/marketplace-content-march-2026
@@ -6,5 +8,3 @@
 /en-us/article/monster-room
 /en-us/article/copper-golem
 /en-us/article/minecraft-26-1-snapshot-10
-/en-us/article/-corrupted-beacon
-/en-us/article/minecraft-26-1-snapshot-9
