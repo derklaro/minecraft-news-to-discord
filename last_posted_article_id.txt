@@ -1,3 +1,4 @@
+/en-us/article/mclive_march2026_recap
 /en-us/article/minecraft-26-1-release-candidate-2
 /en-us/article/minecraft-26-1-release-candidate-1
 /en-us/article/minecraft-26-1-pre-release-3
@@ -7,4 +8,3 @@
 /en-us/article/marketplace-content-march-2026
 /en-us/article/minecraft-26-1-snapshot-11
 /en-us/article/lets-play-mini-golf-resort
-/en-us/article/monster-room
