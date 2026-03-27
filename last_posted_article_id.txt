@@ -1,4 +1,6 @@
+/en-us/article/which-tiny-will-take-over-
 /en-us/article/minecraft-java-edition-26-1
+/en-us/article/minecraft-26-10-bedrock-changelog
 /en-us/article/play-the-tiny-takeover-drop
 /en-us/article/minecraft-26-1-release-candidate-3
 /en-us/article/mclive_march2026_recap
@@ -6,5 +8,3 @@
 /en-us/article/minecraft-26-1-release-candidate-1
 /en-us/article/minecraft-26-1-pre-release-3
 /en-us/article/minecraft-26-1-pre-release-2
-/en-us/article/minecraft-26-1-pre-release-1
-/en-us/article/java-realms-mapmaker-awards
