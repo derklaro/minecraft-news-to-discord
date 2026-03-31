@@ -1,3 +1,4 @@
+/en-us/article/spring-sale-2026
 /en-us/article/minecraft-26-1-1-release-candidate-1
 /en-us/article/minecraft-preview-26-20-23
 /en-us/article/which-tiny-will-take-over-
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-26-1-release-candidate-3
 /en-us/article/mclive_march2026_recap
 /en-us/article/minecraft-26-1-release-candidate-2
-/en-us/article/minecraft-26-1-release-candidate-1
