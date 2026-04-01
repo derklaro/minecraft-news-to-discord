@@ -1,3 +1,4 @@
+/en-us/article/minecraft-java-edition-26-1-1
 /en-us/article/spring-sale-2026
 /en-us/article/minecraft-26-1-1-release-candidate-1
 /en-us/article/minecraft-preview-26-20-23
@@ -7,4 +8,3 @@
 /en-us/article/play-the-tiny-takeover-drop
 /en-us/article/minecraft-26-1-release-candidate-3
 /en-us/article/mclive_march2026_recap
-/en-us/article/minecraft-26-1-release-candidate-2
