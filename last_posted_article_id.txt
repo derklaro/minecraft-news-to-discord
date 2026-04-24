@@ -1,3 +1,4 @@
+/en-us/article/new-on-java-realms--catch-me-outside
 /en-us/article/tiny-takeover-mini-mania
 /en-us/article/minecraft-26-2-snapshot-4
 /en-us/article/minecraft-26-2-snapshot-3
@@ -7,4 +8,3 @@
 /en-us/article/marketplace-content-april-2026
 /en-us/article/play-tiny-takeover-in-realms
 /en-us/article/minecraft-26-2-snapshot-1
-/en-us/article/tiny-takeover-challenges---completed-
