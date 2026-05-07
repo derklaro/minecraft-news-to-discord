@@ -1,10 +1,10 @@
+/en-us/article/test-the-final-features-from-the-chaos-cubed-drop
+/en-us/article/minecraft-26-2-snapshot-6
+/en-us/article/minecraft--bedrock-edition-26-20-changelog
+/en-us/article/let-s-play--fantastic-pets
 /en-us/article/dial-up-the-chaos-in-testing-
 /en-us/article/minecraft-26-2-snapshot-5
 /en-us/article/new-on-java-realms--catch-me-outside
 /en-us/article/tiny-takeover-mini-mania
 /en-us/article/minecraft-26-2-snapshot-4
 /en-us/article/minecraft-26-2-snapshot-3
-/en-us/article/happy-ghast
-/en-us/article/minecraft-26-2-snapshot-2
-/en-us/article/minecraft-java-edition-26-1-2
-/en-us/article/marketplace-content-april-2026
