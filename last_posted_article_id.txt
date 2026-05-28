@@ -1,10 +1,10 @@
+/en-us/article/minecraft-26-2-pre-release-2
 /en-us/article/minecraft-26-2-pre-release-1
 /en-us/article/join-minecraft-at-twitchcon
 /en-us/article/minecraft-26-2-snapshot-8
 /en-us/article/friends-list-for-java-edition
 /en-us/article/minecraft-live-twitchcon
 /en-us/article/minecraft-26-2-snapshot-7
-/en-us/article/test-the-final-features-from-the-chaos-cubed-drop
 /en-us/article/minecraft-26-2-snapshot-6
+/en-us/article/test-the-final-features-from-the-chaos-cubed-drop
 /en-us/article/minecraft--bedrock-edition-26-20-changelog
-/en-us/article/let-s-play--fantastic-pets
