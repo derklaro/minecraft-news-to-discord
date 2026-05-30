@@ -1,10 +1,10 @@
 /en-us/article/chaos-cubed-official-release-date
 /en-us/article/minecraft-movie-build-challenge
 /en-us/article/minecraft-live-twitchcon-rotterdam-recap
+/en-us/article/worlds-made-for-speed-by-tubbo
 /en-us/article/new-on-java-realms--sabines-takeover
 /en-us/article/minecraft-26-2-pre-release-2
 /en-us/article/minecraft-26-2-pre-release-1
 /en-us/article/join-minecraft-at-twitchcon
 /en-us/article/minecraft-26-2-snapshot-8
 /en-us/article/friends-list-for-java-edition
-/en-us/article/minecraft-live-twitchcon
