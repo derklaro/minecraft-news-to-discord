@@ -1,3 +1,4 @@
+/en-us/article/genwars
 /en-us/article/minecraft-26-2-pre-release-4
 /en-us/article/minecraft-26-2-pre-release-3
 /en-us/article/lets-play-monster-food
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-live-twitchcon-rotterdam-recap
 /en-us/article/worlds-made-for-speed-by-tubbo
 /en-us/article/new-on-java-realms--sabines-takeover
-/en-us/article/minecraft-26-2-pre-release-2
