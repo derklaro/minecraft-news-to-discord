@@ -1,3 +1,4 @@
+/en-us/article/minecraft-dungeons-ii-date-announce
 /en-us/article/genwars
 /en-us/article/minecraft-26-2-pre-release-4
 /en-us/article/minecraft-26-2-pre-release-3
@@ -5,6 +6,5 @@
 /en-us/article/lego-minecraft-chicken-mounts
 /en-us/article/chaos-cubed-official-release-date
 /en-us/article/minecraft-movie-build-challenge
-/en-us/article/minecraft-live-twitchcon-rotterdam-recap
 /en-us/article/worlds-made-for-speed-by-tubbo
-/en-us/article/new-on-java-realms--sabines-takeover
+/en-us/article/minecraft-live-twitchcon-rotterdam-recap
