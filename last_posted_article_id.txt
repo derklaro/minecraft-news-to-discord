@@ -1,3 +1,4 @@
+/en-us/article/minecraft-coming-nintendo-switch-2
 /en-us/article/minecraft-26-2-pre-release-5
 /en-us/article/marketplace-content-june-2026
 /en-us/article/minecraft-dungeons-ii-date-announce
@@ -7,4 +8,3 @@
 /en-us/article/lets-play-monster-food
 /en-us/article/lego-minecraft-chicken-mounts
 /en-us/article/chaos-cubed-official-release-date
-/en-us/article/minecraft-movie-build-challenge
