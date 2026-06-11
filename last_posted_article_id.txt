@@ -1,3 +1,4 @@
+/en-us/article/minecraft-26-2-release-candidate-1
 /en-us/article/choose-your-chaos
 /en-us/article/minecraft-26-2-pre-release-6
 /en-us/article/minecraft-coming-nintendo-switch-2
@@ -7,4 +8,3 @@
 /en-us/article/genwars
 /en-us/article/minecraft-26-2-pre-release-4
 /en-us/article/minecraft-26-2-pre-release-3
-/en-us/article/lets-play-monster-food
