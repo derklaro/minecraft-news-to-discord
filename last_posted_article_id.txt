@@ -1,3 +1,4 @@
+/en-us/article/the-chaos-continues
 /en-us/article/minecraft-java-edition-26-2
 /en-us/article/play-chaos-cubed-today
 /en-us/article/minecraft-26-30-bedrock-changelog
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-26-2-pre-release-6
 /en-us/article/minecraft-coming-nintendo-switch-2
 /en-us/article/minecraft-26-2-pre-release-5
-/en-us/article/marketplace-content-june-2026
