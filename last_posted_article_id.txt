@@ -1,3 +1,4 @@
+/en-us/article/minecraft-26-3-snapshot-1
 /en-us/article/play-chaos-cubed-with-minecraft-realms
 /en-us/article/community-challenge-chaos-sparks
 /en-us/article/the-chaos-continues
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-26-2-release-candidate-2
 /en-us/article/minecraft-26-2-release-candidate-1
 /en-us/article/choose-your-chaos
-/en-us/article/minecraft-26-2-pre-release-6
