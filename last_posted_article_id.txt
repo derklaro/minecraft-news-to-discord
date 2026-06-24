@@ -1,5 +1,6 @@
 /en-us/article/herschel-backpack-trials
 /en-us/article/toss-lab-physics-add-on
+/en-us/article/minecraft-preview-26-40-27
 /en-us/article/minecraft-26-3-snapshot-1
 /en-us/article/play-chaos-cubed-with-minecraft-realms
 /en-us/article/community-challenge-chaos-sparks
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-java-edition-26-2
 /en-us/article/play-chaos-cubed-today
 /en-us/article/minecraft-26-30-bedrock-changelog
-/en-us/article/minecraft-26-2-release-candidate-2
