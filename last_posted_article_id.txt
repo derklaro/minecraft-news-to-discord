@@ -1,3 +1,4 @@
+/en-us/article/new-on-java-realms-dash-and-unwind
 /en-us/article/herschel-backpack-trials
 /en-us/article/toss-lab-physics-add-on
 /en-us/article/minecraft-preview-26-40-27
@@ -7,4 +8,3 @@
 /en-us/article/the-chaos-continues
 /en-us/article/minecraft-java-edition-26-2
 /en-us/article/play-chaos-cubed-today
-/en-us/article/minecraft-26-30-bedrock-changelog
