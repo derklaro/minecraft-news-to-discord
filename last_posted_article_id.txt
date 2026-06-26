@@ -1,3 +1,4 @@
+/en-us/article/community-challenge-chaos-spreads
 /en-us/article/new-on-java-realms-dash-and-unwind
 /en-us/article/herschel-backpack-trials
 /en-us/article/toss-lab-physics-add-on
@@ -7,4 +8,3 @@
 /en-us/article/community-challenge-chaos-sparks
 /en-us/article/the-chaos-continues
 /en-us/article/minecraft-java-edition-26-2
-/en-us/article/play-chaos-cubed-today
