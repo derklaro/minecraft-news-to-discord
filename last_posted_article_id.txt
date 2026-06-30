@@ -1,3 +1,4 @@
+/en-us/article/minecraft-26-3-snapshot-2
 /en-us/article/chaoscollage
 /en-us/article/community-challenge-chaos-spreads
 /en-us/article/new-on-java-realms-dash-and-unwind
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-26-3-snapshot-1
 /en-us/article/play-chaos-cubed-with-minecraft-realms
 /en-us/article/community-challenge-chaos-sparks
-/en-us/article/the-chaos-continues
