@@ -1,3 +1,5 @@
+/en-us/article/minecraft-26-3-snapshot-3
+/en-us/article/minecraft-preview-26-40-30
 /en-us/article/lets-play-bobs-farming
 /en-us/article/minecraft-movie-voting-event
 /en-us/article/closed-captions-for-bedrock-edition
@@ -6,5 +8,3 @@
 /en-us/article/chaoscollage
 /en-us/article/community-challenge-chaos-spreads
 /en-us/article/new-on-java-realms-dash-and-unwind
-/en-us/article/herschel-backpack-trials
-/en-us/article/toss-lab-physics-add-on
