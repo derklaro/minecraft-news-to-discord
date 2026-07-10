@@ -1,4 +1,5 @@
 /en-us/article/minecraft-movie-build-challenge-winner-announcement
+/en-us/article/try-marketplace-pass-for-free
 /en-us/article/marketplace-content-july-2026
 /en-us/article/minecraft-26-3-snapshot-3
 /en-us/article/minecraft-preview-26-40-30
@@ -7,4 +8,3 @@
 /en-us/article/closed-captions-for-bedrock-edition
 /en-us/article/summer-sale-2026
 /en-us/article/minecraft-26-3-snapshot-2
-/en-us/article/chaoscollage
