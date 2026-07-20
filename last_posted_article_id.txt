@@ -1,3 +1,4 @@
+/en-us/article/chaos-cubed-composer-interview
 /en-us/article/minecraft-26-3-snapshot-4
 /en-us/article/aether-legends-is-here
 /en-us/article/try-marketplace-pass-for-free
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-preview-26-40-30
 /en-us/article/lets-play-bobs-farming
 /en-us/article/minecraft-movie-voting-event
-/en-us/article/closed-captions-for-bedrock-edition
