@@ -1,3 +1,4 @@
+/en-us/article/pixel-party-free-add-on
 /en-us/article/minecraft-java-edition-system-requirements
 /en-us/article/minecraft-26-3-snapshot-5
 /en-us/article/chaos-cubed-composer-interview
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-movie-build-challenge-winner-announcement
 /en-us/article/marketplace-content-july-2026
 /en-us/article/minecraft-26-3-snapshot-3
-/en-us/article/minecraft-preview-26-40-30
