@@ -1,3 +1,4 @@
+/en-us/article/hello-kitty-and-friends-add-on
 /en-us/article/minecraft-26-3-snapshot-6
 /en-us/article/hive-of-harmony
 /en-us/article/pixel-party-free-add-on
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-26-3-snapshot-4
 /en-us/article/aether-legends-is-here
 /en-us/article/try-marketplace-pass-for-free
-/en-us/article/minecraft-movie-build-challenge-winner-announcement
