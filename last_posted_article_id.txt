@@ -1,3 +1,4 @@
+/en-us/article/minecraft-preview-26-50-24
 /en-us/article/marketplace-content-august-2026
 /en-us/article/minecraft-26-3-snapshot-7
 /en-us/article/minecraft-bedrock-edition-26-40
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-26-3-snapshot-6
 /en-us/article/hive-of-harmony
 /en-us/article/pixel-party-free-add-on
-/en-us/article/minecraft-java-edition-system-requirements
