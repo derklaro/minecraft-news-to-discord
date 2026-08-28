@@ -1,3 +1,4 @@
+/en-us/article/new-on-java-realms--mischiefs---secrets
 /en-us/article/minecraft-26-3-snapshot-10
 /en-us/article/minecraft-dungeons-ii-gameplay-trailer
 /en-us/article/let-s-play-the-bloop
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-for-nintendo-switch-2-release-date
 /en-us/article/minecraft-preview-26-50-24
 /en-us/article/marketplace-content-august-2026
-/en-us/article/minecraft-26-3-snapshot-7
