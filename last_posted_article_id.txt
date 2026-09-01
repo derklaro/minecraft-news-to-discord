@@ -1,3 +1,4 @@
+/en-us/article/marketplace-content-september-2026
 /en-us/article/minecraft-26-3-pre-release-1
 /en-us/article/new-on-java-realms--mischiefs---secrets
 /en-us/article/minecraft-26-3-snapshot-10
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-26-3-snapshot-8
 /en-us/article/get-ready-to-dimension-clash
 /en-us/article/minecraft-for-nintendo-switch-2-release-date
-/en-us/article/minecraft-preview-26-50-24
