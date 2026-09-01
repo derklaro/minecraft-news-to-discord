@@ -1,3 +1,4 @@
+/en-us/article/new-realms-features-in-java-snapshot
 /en-us/article/marketplace-content-september-2026
 /en-us/article/changes-to-minecoin-for-nintendo
 /en-us/article/minecraft-26-3-pre-release-1
@@ -7,4 +8,3 @@
 /en-us/article/let-s-play-the-bloop
 /en-us/article/minecraft-26-3-snapshot-9
 /en-us/article/minecraft-26-3-snapshot-8
-/en-us/article/get-ready-to-dimension-clash
