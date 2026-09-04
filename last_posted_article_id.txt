@@ -1,3 +1,4 @@
+/en-us/article/treasure-hunt-watch-challenge
 /en-us/article/minecraft-26-3-pre-release-2
 /en-us/article/new-realms-features-in-java-snapshot
 /en-us/article/changes-to-minecoin-for-nintendo
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-26-3-snapshot-10
 /en-us/article/minecraft-dungeons-ii-gameplay-trailer
 /en-us/article/let-s-play-the-bloop
-/en-us/article/minecraft-26-3-snapshot-9
