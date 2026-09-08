@@ -1,4 +1,5 @@
 /en-us/article/lets-play-eternal-caves
+/en-us/article/minecraft-26-3-pre-release-3
 /en-us/article/treasure-hunt-watch-challenge
 /en-us/article/minecraft-26-3-pre-release-2
 /en-us/article/new-realms-features-in-java-snapshot
@@ -7,4 +8,3 @@
 /en-us/article/marketplace-content-september-2026
 /en-us/article/new-on-java-realms--mischiefs---secrets
 /en-us/article/minecraft-26-3-snapshot-10
-/en-us/article/minecraft-dungeons-ii-gameplay-trailer
