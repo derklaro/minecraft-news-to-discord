@@ -1,3 +1,4 @@
+/en-us/article/dungeons-ii-battle-for-tokyo
 /en-us/article/minecraft-26-3-release-candidate-3
 /en-us/article/evoker
 /en-us/article/minecraft-26-3-release-candidate-2
@@ -7,4 +8,3 @@
 /en-us/article/treasure-hunt-watch-challenge
 /en-us/article/minecraft-26-3-pre-release-2
 /en-us/article/new-realms-features-in-java-snapshot
-/en-us/article/changes-to-minecoin-for-nintendo
