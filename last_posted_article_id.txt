@@ -1,3 +1,4 @@
+/en-us/article/mclive_sept2026_recap
 /en-us/article/minecraft-26-4-snapshot-1
 /en-us/article/minecraft-java-edition-26-3
 /en-us/article/minecraft--bedrock-edition-26-50-changelog
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-26-3-release-candidate-2
 /en-us/article/minecraft-26-3-release-candidate-1
 /en-us/article/lets-play-eternal-caves
-/en-us/article/minecraft-26-3-pre-release-3
