@@ -1,4 +1,6 @@
+/en-us/article/dungeons-ii-co-op
 /en-us/article/minecraft-26-4-snapshot-2
+/en-us/article/minecraft-dungeons-ii-capes-promos
 /en-us/article/minecraft-dungeons-ii-is-live
 /en-us/article/new-on-java-realms--grinding-and-galaxy
 /en-us/article/mclive_sept2026_recap
@@ -6,5 +8,3 @@
 /en-us/article/minecraft-java-edition-26-3
 /en-us/article/minecraft--bedrock-edition-26-50-changelog
 /en-us/article/dungeons-ii-battle-for-tokyo
-/en-us/article/minecraft-26-3-release-candidate-3
-/en-us/article/evoker
