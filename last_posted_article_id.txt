@@ -1,3 +1,4 @@
+/en-us/article/minecraft-dungeons-ii-is-live
 /en-us/article/new-on-java-realms--grinding-and-galaxy
 /en-us/article/mclive_sept2026_recap
 /en-us/article/minecraft-26-4-snapshot-1
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-26-3-release-candidate-3
 /en-us/article/evoker
 /en-us/article/minecraft-26-3-release-candidate-2
-/en-us/article/minecraft-26-3-release-candidate-1
