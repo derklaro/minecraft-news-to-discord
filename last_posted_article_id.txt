@@ -1,3 +1,4 @@
+/en-us/article/drop-4-2026-testing
 /en-us/article/minecraft-preview-26-60-29
 /en-us/article/dungeons-ii-co-op
 /en-us/article/minecraft-26-4-snapshot-2
@@ -7,4 +8,3 @@
 /en-us/article/mclive_sept2026_recap
 /en-us/article/minecraft-26-4-snapshot-1
 /en-us/article/minecraft-java-edition-26-3
-/en-us/article/minecraft--bedrock-edition-26-50-changelog
