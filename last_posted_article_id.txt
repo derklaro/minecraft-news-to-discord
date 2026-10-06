@@ -1,3 +1,4 @@
+/en-us/article/marketplace-content-october-2026
 /en-us/article/minecraft-26-4-snapshot-3
 /en-us/article/minecraft-dungeons-ii-music
 /en-us/article/drop-4-2026-testing
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-dungeons-ii-capes-promos
 /en-us/article/minecraft-dungeons-ii-is-live
 /en-us/article/new-on-java-realms--grinding-and-galaxy
-/en-us/article/mclive_sept2026_recap
