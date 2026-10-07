@@ -1,3 +1,4 @@
+/en-us/article/pre-order-minecraft-for-nintendo-switch-2
 /en-us/article/marketplace-content-october-2026
 /en-us/article/minecraft-26-4-snapshot-3
 /en-us/article/minecraft-dungeons-ii-music
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-26-4-snapshot-2
 /en-us/article/minecraft-dungeons-ii-capes-promos
 /en-us/article/minecraft-dungeons-ii-is-live
-/en-us/article/new-on-java-realms--grinding-and-galaxy
