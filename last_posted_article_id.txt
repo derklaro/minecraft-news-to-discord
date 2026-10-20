@@ -1,3 +1,4 @@
+/en-us/article/minecraft-26-4-snapshot-5
 /en-us/article/avatar-legends-add-on
 /en-us/article/minecraft-preview-26-70-20
 /en-us/article/minecraft-26-4-snapshot-4
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-dungeons-ii-music
 /en-us/article/drop-4-2026-testing
 /en-us/article/minecraft-preview-26-60-29
-/en-us/article/dungeons-ii-co-op
