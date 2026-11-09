@@ -1,3 +1,4 @@
+/en-us/article/introducing-realms-pro
 /en-us/article/lets-play-decocraft
 /en-us/article/marketplace-content-november-2026
 /en-us/article/drop-4-2026-testing
@@ -7,4 +8,3 @@
 /en-us/article/rob-a-mob
 /en-us/article/fall-drop-free-sound-effect-pack
 /en-us/article/minecraft-preview-26-70-22
-/en-us/article/play-minecraft-on-nintendo-switch-2
