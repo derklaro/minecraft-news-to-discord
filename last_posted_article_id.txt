@@ -1,3 +1,4 @@
+/en-us/article/marketplace-spotlight-sound-effects
 /en-us/article/minecraft-26-4-snapshot-8
 /en-us/article/introducing-realms-pro
 /en-us/article/lets-play-decocraft
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-26-4-snapshot-7
 /en-us/article/halloween-on-realms
 /en-us/article/rob-a-mob
-/en-us/article/fall-drop-free-sound-effect-pack
