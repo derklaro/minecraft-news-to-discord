@@ -1,4 +1,5 @@
 /en-us/article/marketplace-spotlight-sound-effects
+/en-us/article/twitchcon-watch-time-quest
 /en-us/article/minecraft-26-4-snapshot-8
 /en-us/article/introducing-realms-pro
 /en-us/article/lets-play-decocraft
@@ -7,4 +8,3 @@
 /en-us/article/minecraft-preview-26-70-23
 /en-us/article/minecraft-26-4-snapshot-7
 /en-us/article/halloween-on-realms
-/en-us/article/rob-a-mob
