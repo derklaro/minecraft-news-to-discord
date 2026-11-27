@@ -1,3 +1,4 @@
+/en-us/article/new-on-java-realms--frankenstein-s-map
 /en-us/article/minecraft-26-4-pre-release-2
 /en-us/article/block-friday-2026
 /en-us/article/minecraft-26-4-pre-release-1
@@ -7,4 +8,3 @@
 /en-us/article/marketplace-spotlight-sound-effects
 /en-us/article/twitchcon-watch-time-quest
 /en-us/article/minecraft-26-4-snapshot-8
-/en-us/article/introducing-realms-pro
